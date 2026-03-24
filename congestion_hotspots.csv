@@ -1,0 +1,6 @@
+stop_id,delay_minutes,status
+S1,3.0,Normal
+S2,5.0,Normal
+S3,8.0,Hotspot
+S4,5.0,Normal
+S5,7.0,Hotspot

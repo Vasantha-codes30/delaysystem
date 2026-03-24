@@ -1,0 +1,11 @@
+stop_id,stop_name,area,lat,lon
+S1,Shivamogga Bus Stand,City Center,13.9299,75.5681
+S2,Durgigudi,Residential,13.9330,75.5710
+S3,BH Road Circle,Commercial,13.9325,75.5665
+S4,Gandhi Park,Market,13.9350,75.5705
+S5,Vinobanagar,Residential,13.9400,75.5750
+S6,Sagara Road,Highway,13.9450,75.5600
+S7,Gajanur,Suburban,13.9600,75.5800
+S8,Ayanur,Village,13.9700,75.5900
+S9,Bhadravathi Bus Stand,Industrial,13.8485,75.7050
+S10,Tunga Nagar,Residential,13.9380,75.5730

@@ -1,0 +1,15 @@
+Rule 1
+If dwell time > 4 minutes
+→ Cause = Excessive Stop Dwell
+
+Rule 2
+If delay occurs repeatedly at same stop
+→ Cause = Route Congestion
+
+Rule 3
+If first stop already delayed
+→ Cause = Vehicle Turnaround Delay
+
+Rule 4
+If scheduled travel time unrealistic
+→ Cause = Schedule Compression
