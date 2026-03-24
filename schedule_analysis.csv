@@ -1,0 +1,6 @@
+trip_id,stop_id,scheduled_arrival,actual_arrival,scheduled_departure,actual_departure,delay_minutes,cause,hour,schedule_delay,schedule_status
+T1,S1,1900-01-01 08:00:00,1900-01-01 08:03:00,08:02,08:05,3.0,Stop Dwell Time,8,3.0,Feasible
+T1,S2,1900-01-01 08:05:00,1900-01-01 08:10:00,08:06,08:11,5.0,Stop Dwell Time,8,5.0,Feasible
+T1,S3,1900-01-01 08:10:00,1900-01-01 08:18:00,08:11,08:19,8.0,Route Congestion,8,8.0,Unrealistic
+T1,S4,1900-01-01 08:15:00,1900-01-01 08:20:00,08:16,08:22,5.0,Stop Dwell Time,8,5.0,Feasible
+T1,S5,1900-01-01 08:20:00,1900-01-01 08:27:00,08:21,08:28,7.0,Route Congestion,8,7.0,Unrealistic

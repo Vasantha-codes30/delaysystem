@@ -1,0 +1,6 @@
+route_id,route_name,start_stop,end_stop
+R1,Bus Stand - Vinobanagar,S1,S5
+R2,Bus Stand - Gajanur,S1,S7
+R3,Bus Stand - Bhadravathi,S1,S9
+R4,Bus Stand - Tunga Nagar,S1,S10
+R5,Bus Stand - Ayanur,S1,S8
